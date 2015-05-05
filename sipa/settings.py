@@ -99,3 +99,7 @@ MEDIA_URL = os.path.join(BASE_DIR, '/media/')
 STATICFILES_DIRS = (
     os.path.join(BASE_DIR, 'static'),
 )
+
+TEMPALTE_DIRS = (
+    os.path.join(BASE_DIR, 'templates'),
+)
