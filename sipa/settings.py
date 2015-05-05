@@ -100,6 +100,6 @@ STATICFILES_DIRS = (
     os.path.join(BASE_DIR, 'static'),
 )
 
-TEMPALTE_DIRS = (
-    os.path.join(BASE_DIR, 'templates'),
-)
+#TEMPALTE_DIRS = (
+#    os.path.join(BASE_DIR, 'templates'),
+#)
